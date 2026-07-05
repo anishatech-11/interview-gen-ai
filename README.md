@@ -1,0 +1,3 @@
+# Interview Journey
+An AI-powered interview preparation platform that helps users practice technical and HR interviews through an interactive chat experience. The project generates interview questions, evaluates responses, and provides constructive feedback to improve communication, confidence, and problem-solving skills.
+
